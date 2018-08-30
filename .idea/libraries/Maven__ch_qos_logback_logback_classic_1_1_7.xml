@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: ch.qos.logback:logback-classic:1.1.7">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.1.7/logback-classic-1.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.1.7/logback-classic-1.1.7-javadoc.jar!/" />
+      <root url="file://$USER_HOME$/workspace/boot-contentnegotiationmanager/boot-contentnegotiationmanager/src/main/resources/lib/htmlunit-2.32-bin/htmlunit-2.32/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.1.7/logback-classic-1.1.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
