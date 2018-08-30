@@ -1,0 +1,13 @@
+ var result;
+				var ajaxcall = function() {
+					  $.ajax({
+	                url : 'http://localhost:8080/employee?mediaType=json',
+	                data: {urllink: theItem.RSSLINK},
+	                type: "GET",
+	                dataType: "json",
+	                complete: function(r){
+       				alert(r.responseText);
+       				result=r.responseText;
+    				}
+
+	        });
